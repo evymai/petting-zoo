@@ -3,11 +3,11 @@ from swimming import Ray, SeaTurtle, Dolphin, Seahorse, Seal
 from slithering import Snake, Lizard, Duck, Terrapin, Koi
 
 
-miss_fuzz = Llama("Miss Fuzz", "domestic llama")
-bouncer = Kangaroo("Bouncer", "miniature kangaroo")
-satsuma = Capybara("Satsuma", "capybara")
-daisy = Pig("Daisy", "teacup pig")
-ryuuji = Tortoise("Ryuuji", "leopard tortoise")
+miss_fuzz = Llama("Miss Fuzz", "domestic llama", "morning")
+bouncer = Kangaroo("Bouncer", "miniature kangaroo", "midday")
+satsuma = Capybara("Satsuma", "capybara", "midday")
+daisy = Pig("Daisy", "teacup pig", "afternoon")
+ryuuji = Tortoise("Ryuuji", "leopard tortoise", "afternoon")
 sora = Ray("Sora", "manta ray")
 suzu = SeaTurtle("Suzu", "leatherback sea turtle")
 pebble = Dolphin("Pebble", "bottlenose dolphin")
